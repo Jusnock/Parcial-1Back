@@ -1,2 +1,2 @@
 # Primer parcial back
-Miguel Kruzliak 49042, turno noche
+Vazquez Juan Francisco 47804, turno noche
